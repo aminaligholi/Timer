@@ -101,3 +101,5 @@ const people = [{ name: 'amin', last: 'aligholi', age: 26 }, { name: 'mahdi', la
 const [, { name: mahdiname, age: mahdiage }] = people;
 
 //ok it is true
+
+//if is true iam merred id the 
