@@ -99,3 +99,5 @@ const { amin: name } = saman;
 const people = [{ name: 'amin', last: 'aligholi', age: 26 }, { name: 'mahdi', last: 'hamatabadi', age: 11 }, { name: 'samaneh', last: 'ahmadi', age: 29 }];
 
 const [, { name: mahdiname, age: mahdiage }] = people;
+
+//ok it is true
