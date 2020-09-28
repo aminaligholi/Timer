@@ -1,0 +1,16 @@
+body {
+  background-color: aliceblue;
+}
+body #time {
+  color: black;
+  font-size: larger;
+  font-weight: 700;
+  position: absolute;
+  text-align: center;
+  border: none;
+  background-color: aliceblue;
+  width: 40px;
+}
+body #start {
+  margin-top: 30px;
+}
